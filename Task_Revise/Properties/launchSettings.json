@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Task_Revise": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
