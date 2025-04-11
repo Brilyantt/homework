@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\bin\Debug\net8.0\Management_App.exe
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\bin\Debug\net8.0\Management_App.deps.json
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\bin\Debug\net8.0\Management_App.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\bin\Debug\net8.0\Management_App.dll
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\bin\Debug\net8.0\Management_App.pdb
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\Management_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\Management_App.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\Management_App.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\Management_App.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\Management_App.dll
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\refint\Management_App.dll
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\Management_App.pdb
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\Management_App.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\Management_App\Management_App\obj\Debug\net8.0\ref\Management_App.dll
