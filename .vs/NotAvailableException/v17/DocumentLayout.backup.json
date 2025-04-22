@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|c:\\users\\ca r221.14\\source\\repos\\notavailableexception\\notavailableexception\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|solutionrelative:notavailableexception\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|c:\\users\\ca r221.14\\source\\repos\\notavailableexception\\notavailableexception\\exceptions\\hotelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|solutionrelative:notavailableexception\\exceptions\\hotelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|c:\\users\\ca r221.14\\source\\repos\\notavailableexception\\notavailableexception\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|solutionrelative:notavailableexception\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|c:\\users\\ca r221.14\\source\\repos\\notavailableexception\\notavailableexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|solutionrelative:notavailableexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelException.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Exceptions\\HotelException.cs",
+              "RelativeDocumentMoniker": "NotAvailableException\\Exceptions\\HotelException.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Exceptions\\HotelException.cs",
+              "RelativeToolTip": "NotAvailableException\\Exceptions\\HotelException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:42:35.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "NotAvailableException\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Models\\Hotel.cs*",
+              "RelativeToolTip": "NotAvailableException\\Models\\Hotel.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:19:52.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "NotAvailableException\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Models\\Room.cs*",
+              "RelativeToolTip": "NotAvailableException\\Models\\Room.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:05:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Program.cs",
+              "RelativeDocumentMoniker": "NotAvailableException\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\NotAvailableException\\NotAvailableException\\Program.cs",
+              "RelativeToolTip": "NotAvailableException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:03:06.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

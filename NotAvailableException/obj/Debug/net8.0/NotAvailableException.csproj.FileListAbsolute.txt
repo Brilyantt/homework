@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\NotAvailableException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\NotAvailableException.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\NotAvailableException.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\NotAvailableException.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\bin\Debug\net8.0\NotAvailableException.exe
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\bin\Debug\net8.0\NotAvailableException.deps.json
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\bin\Debug\net8.0\NotAvailableException.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\bin\Debug\net8.0\NotAvailableException.dll
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\bin\Debug\net8.0\NotAvailableException.pdb
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\NotAvailableException.dll
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\refint\NotAvailableException.dll
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\NotAvailableException.pdb
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\NotAvailableException.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\NotAvailableException\NotAvailableException\obj\Debug\net8.0\ref\NotAvailableException.dll
