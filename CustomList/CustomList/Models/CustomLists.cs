@@ -3,6 +3,8 @@
 public class CustomLists<T>
 {
     public T[] _lists = [];
+    public int Count => _lists.Length;
+    public T this [int index] => _lists[index];
 
     public void Add(T item)
     {
@@ -26,11 +28,48 @@ public class CustomLists<T>
         return true;
     }
 
+    public bool RemoveAll(Predicate<T> predicate)
+    {
+        bool Isremove = false;
+        for (int i=0; i < _lists.Length;)
+        {
+            if (predicate(_lists[i]))
+            {
+                RemoveAt(i);
+                Isremove = true;
+            }
+            
+        }
+        return Isremove;
+    }
+
     public int IndexOf(T item)
     {
         return Array.IndexOf(_lists, item);
 
-
     }
+
+    public T? Find(Predicate<T> predicate)
+    {
+        foreach ( var item in _lists)
+        {
+            if (predicate (item))
+                return item; 
+        }
+        return default;
+    }
+
+    public CustomLists<T> FindAll(Predicate<T> predicate)
+    {
+        CustomLists<T> result = new();
+        foreach (var item in _lists)
+        {
+            if (predicate(item))
+                result.Add(item);
+        }
+        return result;
+    }
+
+
 
 }
