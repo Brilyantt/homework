@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\homework\\NotAvailableException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|c:\\users\\hp\\desktop\\homework\\notavailableexception\\notavailableexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|solutionrelative:notavailableexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|c:\\users\\hp\\desktop\\homework\\notavailableexception\\notavailableexception\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9262DCF-C0D3-4D88-A590-FA861C1F555B}|NotAvailableException\\NotAvailableException.csproj|solutionrelative:notavailableexception\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\homework\\NotAvailableException\\NotAvailableException\\Program.cs",
+              "RelativeDocumentMoniker": "NotAvailableException\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\homework\\NotAvailableException\\NotAvailableException\\Program.cs",
+              "RelativeToolTip": "NotAvailableException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:37:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\homework\\NotAvailableException\\NotAvailableException\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "NotAvailableException\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\homework\\NotAvailableException\\NotAvailableException\\Models\\Hotel.cs",
+              "RelativeToolTip": "NotAvailableException\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:37:20.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

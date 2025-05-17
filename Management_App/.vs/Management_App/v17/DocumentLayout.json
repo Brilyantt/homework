@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|c:\\users\\hp\\desktop\\homework\\management_app\\management_app\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|solutionrelative:management_app\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|c:\\users\\hp\\desktop\\homework\\management_app\\management_app\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|solutionrelative:management_app\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|c:\\users\\hp\\desktop\\homework\\management_app\\management_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|solutionrelative:management_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|c:\\users\\hp\\desktop\\homework\\management_app\\management_app\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC25DE3-9ED5-49FB-A28C-9318364C9429}|Management_App\\Management_App.csproj|solutionrelative:management_app\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\Classes.cs",
+              "RelativeDocumentMoniker": "Management_App\\Classes.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\Classes.cs",
+              "RelativeToolTip": "Management_App\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:35:49.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\Class1.cs",
+              "RelativeDocumentMoniker": "Management_App\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\Class1.cs",
+              "RelativeToolTip": "Management_App\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:35:45.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\DBContext.cs",
+              "RelativeDocumentMoniker": "Management_App\\DBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\DBContext.cs",
+              "RelativeToolTip": "Management_App\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:35:20.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\Program.cs",
+              "RelativeDocumentMoniker": "Management_App\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\homework\\Management_App\\Management_App\\Program.cs",
+              "RelativeToolTip": "Management_App\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:33:39.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

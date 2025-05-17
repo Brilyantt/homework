@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\HotelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\HotelApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\HotelApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\HotelApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HotelApp\HotelApp\bin\Debug\net8.0\HotelApp.exe
+C:\Users\HP\source\repos\HotelApp\HotelApp\bin\Debug\net8.0\HotelApp.deps.json
+C:\Users\HP\source\repos\HotelApp\HotelApp\bin\Debug\net8.0\HotelApp.runtimeconfig.json
+C:\Users\HP\source\repos\HotelApp\HotelApp\bin\Debug\net8.0\HotelApp.dll
+C:\Users\HP\source\repos\HotelApp\HotelApp\bin\Debug\net8.0\HotelApp.pdb
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\HotelApp.dll
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\refint\HotelApp.dll
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\HotelApp.pdb
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\HotelApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\HotelApp\HotelApp\obj\Debug\net8.0\ref\HotelApp.dll

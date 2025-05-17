@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotAvailableException")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40eddf4354c7b48bd6623f4c1674f92f773a7981")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2c77ab389a634d533c1ce027f98d3c3f82186c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotAvailableException")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotAvailableException")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

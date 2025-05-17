@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\bin\Debug\net8.0\Task_Departmentt.exe
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\bin\Debug\net8.0\Task_Departmentt.deps.json
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\bin\Debug\net8.0\Task_Departmentt.runtimeconfig.json
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\bin\Debug\net8.0\Task_Departmentt.dll
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\bin\Debug\net8.0\Task_Departmentt.pdb
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\Task_Departmentt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\Task_Departmentt.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\Task_Departmentt.AssemblyInfo.cs
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\Task_Departmentt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\Task_Departmentt.dll
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\refint\Task_Departmentt.dll
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\Task_Departmentt.pdb
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\Task_Departmentt.genruntimeconfig.cache
+C:\Users\HP\source\repos\Task_Departmentt\Task_Departmentt\obj\Debug\net8.0\ref\Task_Departmentt.dll
