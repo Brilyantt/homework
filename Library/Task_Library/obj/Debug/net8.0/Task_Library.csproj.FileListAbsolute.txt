@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Task_Library\Task_Library\bin\Debug\net8.0\Task_Library.exe
+C:\Users\HP\source\repos\Task_Library\Task_Library\bin\Debug\net8.0\Task_Library.deps.json
+C:\Users\HP\source\repos\Task_Library\Task_Library\bin\Debug\net8.0\Task_Library.runtimeconfig.json
+C:\Users\HP\source\repos\Task_Library\Task_Library\bin\Debug\net8.0\Task_Library.dll
+C:\Users\HP\source\repos\Task_Library\Task_Library\bin\Debug\net8.0\Task_Library.pdb
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\Task_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\Task_Library.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\Task_Library.AssemblyInfo.cs
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\Task_Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\Task_Library.dll
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\refint\Task_Library.dll
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\Task_Library.pdb
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\Task_Library.genruntimeconfig.cache
+C:\Users\HP\source\repos\Task_Library\Task_Library\obj\Debug\net8.0\ref\Task_Library.dll
